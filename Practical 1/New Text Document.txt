@@ -1,6 +1,0 @@
-AIm:
-Theory: lex 
-
-code and output
-
-conclusion
